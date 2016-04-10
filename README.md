@@ -1,2 +1,2 @@
 # hello-world
-Following the "hello word" guide on GitHub
+Following the "hello world" guide on GitHub
